@@ -16,7 +16,7 @@ export class EmployeeListComponent {
                 name: 'Tom',
                 gender: 'Male',
                 annualSalary: 5500,
-                dateOfBirth: '25/6/1988'
+                dateOfBirth: '7/6/1988'
             },
             {
                 code: 'emp102',
@@ -37,7 +37,7 @@ export class EmployeeListComponent {
                 name: 'Mary',
                 gender: 'Female',
                 annualSalary: 6500.826,
-                dateOfBirth: '14/10/1980'
+                dateOfBirth: '11/10/1980'
             }
         ];
     }
@@ -50,7 +50,7 @@ export class EmployeeListComponent {
                 name: 'Tom',
                 gender: 'Male',
                 annualSalary: 5500,
-                dateOfBirth: '25/6/1988'
+                dateOfBirth: '7/6/1988'
             },
             {
                 code: 'emp102',
@@ -71,14 +71,14 @@ export class EmployeeListComponent {
                 name: 'Mary',
                 gender: 'Female',
                 annualSalary: 6500.826,
-                dateOfBirth: '14/10/1980'
+                dateOfBirth: '11/10/1980'
             },
             {
                 code: 'emp105',
                 name: 'Himani',
                 gender: 'Female',
                 annualSalary: 6500.826,
-                dateOfBirth: '14/10/1980'
+                dateOfBirth: '09/10/1980'
             }
         ];
 
